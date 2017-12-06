@@ -26,6 +26,6 @@ For ($i = 0; $i -lt $input.length; $i++) {
   $min = Get-Min $arr
   $max = Get-Max $arr
   $sum += ($max - $min)
-  }
+}
 
   $sum
